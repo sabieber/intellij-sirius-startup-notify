@@ -1,0 +1,19 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>com.scireum.sirius-startup-notify</id>
+    <name>Sirius Startup Notify</name>
+    <vendor email="info@scireum.de" url="https://scireum.de">scireum GmbH</vendor>
+    <version>1.0</version>
+    <idea-version since-build="232" until-build="242.*"/>
+
+    <description><![CDATA[
+    Notifies the user as soon as the sirius application startup is complete.
+  ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <notificationGroup id="Sirius Startup" displayType="BALLOON" isLogByDefault="true"/>
+        <consoleFilterProvider order="first" implementation="com.scireum.siriusstartupnotify.SiriusStartupNotifyFilterProvider"/>
+    </extensions>
+</idea-plugin>

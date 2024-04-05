@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.94112,0,0,0.94112,-0.274878,1.34581)">
+        <g id="Logo">
+            <g id="menu_logo">
+                <g id="bildmarke" transform="matrix(1,0,0,1,5.08619,0.380398)">
+                    <g id="right" transform="matrix(1,0,0,1,11.5007,0)">
+                        <path id="Rectangle-1" d="M20.727,24.15C21.08,24.399 21.368,24.252 21.37,23.831L21.413,15.552C21.415,15.127 21.13,14.58 20.776,14.33L0.66,0.127C0.307,-0.123 0.019,0.025 0.018,0.448L0.002,8.76C0.001,9.187 0.286,9.735 0.639,9.984L20.727,24.15Z" style="fill:rgb(254,209,54);fill-opacity:0.7;"/>
+                        <path id="Rectangle-2" d="M20.727,14.732C21.08,14.482 21.368,14.63 21.37,15.051L21.413,23.329C21.415,23.755 21.13,24.302 20.776,24.552L0.66,38.755C0.307,39.005 0.019,38.856 0.018,38.434L0.002,30.122C0.001,29.695 0.286,29.147 0.639,28.897L20.727,14.732Z" style="fill:rgb(245,193,44);fill-opacity:0.7;"/>
+                    </g>
+                    <g id="left" transform="matrix(1,0,0,1,0,6.55187)">
+                        <path id="Rectangle-11" serif:id="Rectangle-1" d="M13.707,16.069C13.94,16.234 14.131,16.137 14.132,15.857L14.16,10.371C14.161,10.089 13.973,9.726 13.739,9.561L0.437,0.147C0.203,-0.018 0.013,0.08 0.012,0.36L0.001,5.869C0,6.152 0.189,6.516 0.423,6.681L13.707,16.069Z" style="fill:rgb(254,209,54);fill-opacity:0.7;"/>
+                        <path id="Rectangle-21" serif:id="Rectangle-2" d="M13.707,9.827C13.94,9.662 14.131,9.76 14.132,10.039L14.16,15.525C14.161,15.807 13.973,16.17 13.739,16.335L0.437,25.749C0.203,25.914 0.013,25.816 0.012,25.536L0.001,20.027C0,19.744 0.189,19.381 0.423,19.215L13.707,9.827Z" style="fill:rgb(245,193,44);fill-opacity:0.7;"/>
+                    </g>
+                </g>
+                <g id="txt">
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

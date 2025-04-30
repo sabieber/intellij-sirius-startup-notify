@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.scireum"
-version = "1.1"
+version = "1.2"
 
 repositories {
     mavenCentral()
@@ -32,7 +32,6 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("232")
-        untilBuild.set("243.*")
     }
 
     signPlugin {
